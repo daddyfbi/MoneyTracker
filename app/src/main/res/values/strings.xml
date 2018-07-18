@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Money Tracker</string>
+    <string name="enter_name">Название товара</string>
+    <string name="enter_price">0</string>
+</resources>
